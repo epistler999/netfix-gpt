@@ -1,4 +1,4 @@
-# NETFLIX GPT (Link : https://netflixgpt-14b08.web.app/)
+# NETFLIX GPT (Link : https://main--keen-meerkat-46f15a.netlify.app/)
 
 ### Process to follow - map of website
 * header -> logo
